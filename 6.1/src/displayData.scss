@@ -1,0 +1,71 @@
+body {
+    background: lightgray;
+    padding: 2em;
+}
+
+.title {
+    color: red;
+    font-family: Constantia;
+    text-align: center;
+}
+
+.user-profile {
+    margin: auto;
+    width: 30em;
+    height: 10.5em;
+    background: whitesmoke;
+    border-radius: .3em;
+}
+
+
+
+.user-profile  #name {
+    margin-top: -4.40em;
+    margin-left: 5.80em;
+    color: black;
+    font-size: 1.53em;
+    font-family: "Book Antiqua";
+    font-weight: bold;
+}
+
+
+
+.description {
+    border: aqua 10px solid;
+    border-radius: 15px;
+    box-shadow: 0px 0px 45px red;
+    margin: auto;
+    margin-top: 1.35em;
+    margin-right: 3em;
+    width: 18em;
+    color: black;
+    font-size: .87em;
+    font-family: "Book Antiqua";
+}
+
+#username, #email, #city{
+    display: inline-block;
+    color: red;
+    font-size: .87em;
+    font-weight: bold;
+    font-family: "Book Antiqua";
+}
+
+button {
+    margin: 3em auto;
+    height: 2em;
+    background: black;
+    text-align: center;
+    border-radius: 0 0 1.3em 1.3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: white;
+    font-family: "Book Antiqua";
+    font-size: 20px;
+}
+
+button:hover {
+    background: green;
+}
