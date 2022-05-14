@@ -1,7 +1,10 @@
-Przykładowy projekt z użyciem API serwisu Github znajduje się pod adresem: https://drive.google.com/file/d/1pNF4qrT_oaqYpY6yaYh9SJFrOxbf7xEu/view?usp=sharing
+Zadanie 2 (3 pkt)
 
-Zadanie 1 (2.5 pkt)
+Na stronie https://www.themealdb.com/api.php znajduje się API dotyczące dań, które są zawarte na stronie https://www.themealdb.com/api.php. 
 
-Strona https://randomuser.me/ generuje losowe dane dotyczące danych osobowych. 
+Utwórz aplikacje w React, które wykorzystując powyższe api będzie miało podobną funkcjonalność, co strona https://www.themealdb.com/.
 
-Utwórz aplikacje React, która będzie wyświetlać w dość funkcjonalny sposób losowane dane z serwisu https://randomuser.me/. Aplikacja powinna zawierać przycisk dzięki któremu będziemy losować kolejne dane.
+Nie kopiujmy całkowitej funkcjonalności. Aplikacja ma przede wszystkim:
+
+Wyświetlić dania na stronie głównej
+Po kliknięciu na dane ma wyświetlić szczegóły
