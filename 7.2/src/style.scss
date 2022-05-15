@@ -1,0 +1,39 @@
+body {
+  background-color: lightgray;
+}
+
+.shuffle {
+  margin-left: 100px;
+}
+
+section {
+  background-color: aliceblue;
+}
+
+h1,
+p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  float: left;
+  border: 3px solid purple;
+  border-radius: 5px;
+  margin: 10px 10px 10px 10px;
+  list-style-type: none;
+}
+
+.likesContainer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: right;
+}
+
+.rm {
+  margin-left: 100px;
+  margin-top: 10px;
+}
