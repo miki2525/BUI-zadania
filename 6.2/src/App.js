@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import {Route, Routes, BrowserRouter, Navigate, NavLink} from 'react-router-dom'
-import DisplayData from "./displayData";
-import DisplayMeal from "./displayMeal";
+import DisplayData from "./components/displayData";
+import DisplayMeal from "./components/displayMeal";
 
 
 
