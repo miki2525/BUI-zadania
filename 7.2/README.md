@@ -1,7 +1,9 @@
-Przykładowy projekt z użyciem API serwisu Github znajduje się pod adresem: https://drive.google.com/file/d/1pNF4qrT_oaqYpY6yaYh9SJFrOxbf7xEu/view?usp=sharing
+Zadanie 2 (1.5 pkt)
 
-Zadanie 1 (2.5 pkt)
+Korzystając z zadania https://stepik.org/lesson/462075/step/4?unit=452686 i za pomocą narzędzia react-router utwórz trasy, które będą wyświetlać szczegóły zdjęcia po podaniu jego identyfikatora w pasku adresu.
 
-Strona https://randomuser.me/ generuje losowe dane dotyczące danych osobowych. 
+Ponadto w szczegółach mają znajdować się dwaprzyciski, które:
 
-Utwórz aplikacje React, która będzie wyświetlać w dość funkcjonalny sposób losowane dane z serwisu https://randomuser.me/. Aplikacja powinna zawierać przycisk dzięki któremu będziemy losować kolejne dane.
+Będą wyświetlać poprzednią stronę
+Będą wyświetlać następną stronę
+W przypadku podania niepoprawnego adresu, aplikacja ma przekierować na stronę główną.
